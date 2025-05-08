@@ -19,3 +19,11 @@ This is a simple implementation of the classic **Snake Game** using **Java** and
    ```bash
    git clone https://github.com/yourusername/snake-game-java.git
    cd snake-game-java
+
+## Authors
+ - **IasonasPelekis**
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE)
+Creative Commons License - see the [LICENSE.md](LICENSE) file for details.
