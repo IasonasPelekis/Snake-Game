@@ -11,7 +11,7 @@ This is a simple implementation of the classic **Snake Game** using **Java** and
 
 ## 📷 Screenshot
 
-![Preview](Preview.png 'Preview')
+![Preview](Preview 'Preview')
 
 ## 🚀 How to Run
 
